@@ -29,8 +29,6 @@ int main(){
         cout << "You have a normal BMI and are at Lowest risk of chronic diseases";
     }
 
-
-
     return 0;
 
 }
